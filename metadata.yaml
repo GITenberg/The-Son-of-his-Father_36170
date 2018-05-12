@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5545
 description: The story of how the son of a millionaire set free from father's purse
   strings tried to make a fortune in six months out in the Wild West.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36170#The-Son-of-his-Father
 gutenberg_issued: '2011-05-30'
 gutenberg_type: Text
 identifiers:
